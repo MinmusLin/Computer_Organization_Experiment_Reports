@@ -31,6 +31,9 @@ A collection of my computer organization principles experiment reports.
 * [Digital Logic Design Experiment](20231101_Digital_Logic_Design_Experiment.pdf)
 数字逻辑设计实验
 
+* [Buzzer Circuit Analog Design](20231108_Buzzer_Circuit_Analog_Design.pptx)
+抢答电路模拟设计
+
 * [Computer System Introduction Experiment](20231115_Computer_System_Introduction_Experiment.pdf)
 计算机系统认识实验
 
