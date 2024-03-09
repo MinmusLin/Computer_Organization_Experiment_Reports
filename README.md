@@ -10,7 +10,7 @@ A collection of my computer organization experiment reports.
 
 2023年同济大学计算机组成原理实验报告合集。
 
-> Relevant course
+> ***Relevant course***
 > * Computer Organization Experiment 2023 (2023年同济大学计算机组成原理实验)
 
 ## 仓库组成
@@ -56,4 +56,4 @@ A collection of my computer organization experiment reports.
 
 ## 文档更新日期
 
-2024年2月17日
+2024年3月10日
